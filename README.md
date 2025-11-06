@@ -21,6 +21,7 @@
 18. cat ~/test4/1 ~/test4/3
 19. nano ~/test4/1
     
+
 #bash1.txt - Задача 2
 1. cd ~
 2. mkdir test3
