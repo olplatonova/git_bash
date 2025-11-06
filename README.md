@@ -1,6 +1,7 @@
 # Работа с git и bash
 
-# bash1.txt - Задача 1
+# Задача 1
+bash1.txt:
 1. cd ~
 2. pwd
 3. mkdir test1
@@ -22,7 +23,8 @@
 19. nano ~/test4/1
     
 
-# bash1.txt - Задача 2
+# Задача 2
+bash2.txt:
 1. cd ~
 2. mkdir test3
 3. echo -e "row1\nrow2\nrow3\nrow4" > ~/test3/4
